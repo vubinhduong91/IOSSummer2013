@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>QuestionId</key>
+		<string>0</string>
+		<key>Question</key>
+		<string>Loài chim hay mang đến điềm xui xẻo ?</string>
+		<key>Answers</key>
+		<array>
+			<string>Quạ </string>
+			<string>Bồ Câu </string>
+			<string>Công </string>
+			<string>Én </string>
+		</array>
+		<key>Correct</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>question0.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>1</string>
+		<key>Question</key>
+		<string>Loài chim này làm tổ bằng nước bọt?</string>
+		<key>Answers</key>
+		<array>
+			<string>Chim Én</string>
+			<string>Chim Yến</string>
+			<string>Chim Cắt</string>
+			<string>Chim Sẻ</string>
+		</array>
+		<key>Correct</key>
+		<string>1</string>
+		<key>Image</key>
+		<string>question1.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>2</string>
+		<key>Question</key>
+		<string>Loài này định vị đường đi bằng sóng âm thanh?</string>
+		<key>Answers</key>
+		<array>
+			<string>Cánh Cụt</string>
+			<string>Máy Bay</string>
+			<string>Dơi</string>
+			<string>Chim Quyên</string>
+		</array>
+		<key>Correct</key>
+		<string>2</string>
+		<key>Image</key>
+		<string>question2.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>3</string>
+		<key>Question</key>
+		<string>Con gì là chúa tể của bầu trời?</string>
+		<key>Answers</key>
+		<array>
+			<string> Đại Bàng </string>
+			<string>Con Vẹt</string>
+			<string> Chim Cắt </string>
+			<string> Gà Chọi</string>
+		</array>
+		<key>Correct</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>question3.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>4</string>
+		<key>Question</key>
+		<string>Chim gì hót rất hay?</string>
+		<key>Answers</key>
+		<array>
+			<string> Chim Chích Bông</string>
+			<string> Chim Sẻ</string>
+			<string> Chim Họa Mi </string>
+			<string> Chim Gõ Kiến</string>
+		</array>
+		<key>Correct</key>
+		<string>2</string>
+		<key>Image</key>
+		<string>question4.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>5</string>
+		<key>Question</key>
+		<string> Con gì là biểu tượng của hòa bình?</string>
+		<key>Answers</key>
+		<array>
+			<string>Diều Hâu</string>
+			<string> Bướm </string>
+			<string> Quạ </string>
+			<string> Bồ Câu</string>
+		</array>
+		<key>Correct</key>
+		<string>3</string>
+		<key>Image</key>
+		<string>question5.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>6</string>
+		<key>Question</key>
+		<string>Loại chim này có mỏ rất to, chứa được đồ ăn?</string>
+		<key>Answers</key>
+		<array>
+			<string> Bồ Nông</string>
+			<string> Hải Âu</string>
+			<string> Chim yến</string>
+			<string> Chim Bói Cá</string>
+		</array>
+		<key>Correct</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>question6.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>7</string>
+		<key>Question</key>
+		<string>Loài côn trùng nào giúp thụ phấn cho hoa?</string>
+		<key>Answers</key>
+		<array>
+			<string>Con Ve</string>
+			<string>Con Ong</string>
+			<string>Con mèo</string>
+			<string>Con Bọ Xít</string>
+		</array>
+		<key>Correct</key>
+		<string>1</string>
+		<key>Image</key>
+		<string>question7.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>8</string>
+		<key>Question</key>
+		<string> Loài này cùng họ với ngỗng và vịt?</string>
+		<key>Answers</key>
+		<array>
+			<string> Chim Lợn</string>
+			<string> Chim Ruồi</string>
+			<string> Đà Điểu</string>
+			<string> Thiên Nga</string>
+		</array>
+		<key>Correct</key>
+		<string>3</string>
+		<key>Image</key>
+		<string>question8.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>9</string>
+		<key>Question</key>
+		<string> Côn trùng có tốc độ bay rất cao?</string>
+		<key>Answers</key>
+		<array>
+			<string> Chuồn Chuồn</string>
+			<string> Ve Sầu</string>
+			<string> Châu Chấu</string>
+			<string> Bướm</string>
+		</array>
+		<key>Correct</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>question9.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>10</string>
+		<key>Question</key>
+		<string> Con gì giúp nhà nông cày ruộng?</string>
+		<key>Answers</key>
+		<array>
+			<string> Con Bò</string>
+			<string> Con Trâu</string>
+			<string> Con Gà</string>
+			<string> Con Chó</string>
+		</array>
+		<key>Correct</key>
+		<string>1</string>
+		<key>Image</key>
+		<string>question10.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>11</string>
+		<key>Question</key>
+		<string> Con gì là chúa tể muôn loài?</string>
+		<key>Answers</key>
+		<array>
+			<string> Con Hổ</string>
+			<string> Con Trâu</string>
+			<string> Con Sư Tử</string>
+			<string> Con Chuột</string>
+		</array>
+		<key>Correct</key>
+		<string>2</string>
+		<key>Image</key>
+		<string>question11.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>12</string>
+		<key>Question</key>
+		<string> Con gì lông trắng và có tai dài?</string>
+		<key>Answers</key>
+		<array>
+			<string> Con Cóc </string>
+			<string> Con Thỏ </string>
+			<string> Con Mèo </string>
+			<string> Con Lừa </string>
+		</array>
+		<key>Correct</key>
+		<string>1</string>
+		<key>Image</key>
+		<string>question12.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>13</string>
+		<key>Question</key>
+		<string> Con gì thường được nuôi để lấy sữa?</string>
+		<key>Answers</key>
+		<array>
+			<string> Con Khỉ </string>
+			<string> Con Lợn </string>
+			<string> Con Hươu </string>
+			<string> Con Bò Sữa</string>
+		</array>
+		<key>Correct</key>
+		<string>3</string>
+		<key>Image</key>
+		<string>question13.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>14</string>
+		<key>Question</key>
+		<string> Con gì thích bắt chuột?</string>
+		<key>Answers</key>
+		<array>
+			<string> Con Rắn </string>
+			<string> Con Mèo </string>
+			<string> Con Chó </string>
+			<string> Con Bò </string>
+		</array>
+		<key>Correct</key>
+		<string>1</string>
+		<key>Image</key>
+		<string>question14.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>15</string>
+		<key>Question</key>
+		<string> Con gì có lông tua tủa?</string>
+		<key>Answers</key>
+		<array>
+			<string> Con Nai</string>
+			<string> Con Cú </string>
+			<string> Con Nhím </string>
+			<string> Con Tê Giác </string>
+		</array>
+		<key>Correct</key>
+		<string>2</string>
+		<key>Image</key>
+		<string>question15.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>16</string>
+		<key>Question</key>
+		<string> Con gì có vòi to và dài?</string>
+		<key>Answers</key>
+		<array>
+			<string> Con Tê Giác</string>
+			<string> Con Voi</string>
+			<string> Con Đười Ươi </string>
+			<string> Con Lợn </string>
+		</array>
+		<key>Correct</key>
+		<string>1</string>
+		<key>Image</key>
+		<string>question16.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>17</string>
+		<key>Question</key>
+		<string> Con gì có khả năng ngụy trang?</string>
+		<key>Answers</key>
+		<array>
+			<string>Thằn Lằn</string>
+			<string>Tắc Kè </string>
+			<string>Thạch Sùng </string>
+			<string> Con Cóc </string>
+		</array>
+		<key>Correct</key>
+		<string>1</string>
+		<key>Image</key>
+		<string>question17.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>18</string>
+		<key>Question</key>
+		<string> Con gì hay được nuôi trong gia đình?</string>
+		<key>Answers</key>
+		<array>
+			<string> Con Khỉ </string>
+			<string> Con Bò </string>
+			<string> Con Chó </string>
+			<string> Con Gà </string>
+		</array>
+		<key>Correct</key>
+		<string>2</string>
+		<key>Image</key>
+		<string>question18.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>19</string>
+		<key>Question</key>
+		<string> Con gì đã tuyệt chủng?</string>
+		<key>Answers</key>
+		<array>
+			<string>Sói </string>
+			<string>Khủng Long </string>
+			<string>Voi </string>
+			<string>Đà Điểu </string>
+		</array>
+		<key>Correct</key>
+		<string>1</string>
+		<key>Image</key>
+		<string>question19.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>20</string>
+		<key>Question</key>
+		<string> Con gì có thân thể trong suốt ?</string>
+		<key>Answers</key>
+		<array>
+			<string>Sao Biển </string>
+			<string>Sứa </string>
+			<string>Mực </string>
+			<string>Cá heo </string>
+		</array>
+		<key>Correct</key>
+		<string>1</string>
+		<key>Image</key>
+		<string>question20.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>21</string>
+		<key>Question</key>
+		<string> Con gì có càng to càng nhỏ ?</string>
+		<key>Answers</key>
+		<array>
+			<string> Con Cua Biển</string>
+			<string> Con Tôm Hùm</string>
+			<string> Con Sò Huyết </string>
+			<string> Con Cá Đuối </string>
+		</array>
+		<key>Correct</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>question21.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>22</string>
+		<key>Question</key>
+		<string> Sinh vật to nhất đại dương?</string>
+		<key>Answers</key>
+		<array>
+			<string> Cá Heo</string>
+			<string> Cá Trình</string>
+			<string> Cá Voi </string>
+			<string> Cá Mập </string>
+		</array>
+		<key>Correct</key>
+		<string>2</string>
+		<key>Image</key>
+		<string>question22.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>23</string>
+		<key>Question</key>
+		<string> Loài cá được cho là nguy hiểm nhất?</string>
+		<key>Answers</key>
+		<array>
+			<string> Cá Heo</string>
+			<string> Cá Trình</string>
+			<string> Cá Voi </string>
+			<string> Cá Mập </string>
+		</array>
+		<key>Correct</key>
+		<string>3</string>
+		<key>Image</key>
+		<string>question23.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>24</string>
+		<key>Question</key>
+		<string> Loài thân mềm có đầu tròn và nhiều vòi?</string>
+		<key>Answers</key>
+		<array>
+			<string> Thủy Tức</string>
+			<string> Mực Ống</string>
+			<string> Bạch Tuộc </string>
+			<string> Sứa</string>
+		</array>
+		<key>Correct</key>
+		<string>2</string>
+		<key>Image</key>
+		<string>question24.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>25</string>
+		<key>Question</key>
+		<string> Sinh vật biển có năm cánh?</string>
+		<key>Answers</key>
+		<array>
+			<string> Sao Biển</string>
+			<string> Mực Ống</string>
+			<string> Trai </string>
+			<string> Tôm Hùm</string>
+		</array>
+		<key>Correct</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>question25.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>26</string>
+		<key>Question</key>
+		<string> Con gì có thân hình chữ S?</string>
+		<key>Answers</key>
+		<array>
+			<string> Cua</string>
+			<string> Hải Cẩu</string>
+			<string> Cá Voi</string>
+			<string> Cá Ngựa</string>
+		</array>
+		<key>Correct</key>
+		<string>3</string>
+		<key>Image</key>
+		<string>question26.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>27</string>
+		<key>Question</key>
+		<string>Con gì rất thông minh và hay giúp đỡ người?</string>
+		<key>Answers</key>
+		<array>
+			<string> Cá Mập</string>
+			<string> Mực Ống</string>
+			<string> Cá Heo</string>
+			<string> Rùa</string>
+		</array>
+		<key>Correct</key>
+		<string>2</string>
+		<key>Image</key>
+		<string>question27.png</string>
+	</dict>
+	<dict>
+		<key>QuestionId</key>
+		<string>28</string>
+		<key>Question</key>
+		<string> Cá nào có thân thể dẹp và phẳng?</string>
+		<key>Answers</key>
+		<array>
+			<string> Cá Đuối</string>
+			<string> Cá Mập</string>
+			<string> Cá Voi</string>
+			<string> Cá Vàng</string>
+		</array>
+		<key>Correct</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>question28.png</string>
+	</dict>
+</array>
+</plist>
